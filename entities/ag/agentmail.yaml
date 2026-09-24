@@ -10,12 +10,15 @@ entity:
       valid_from: 2026-08-31T14:06:56.000Z
   category: communication
 profile:
+  summary: AgentMail is an email inbox API for AI agents that gives each agent its own inbox, with threads, attachments, realtime events, and custom domains.
   description: AgentMail provides programmable email inboxes and infrastructure for AI agents.
   links:
     site: https://www.agentmail.to
 sources:
   - source_id: src_84a1cbcf334e998aad8a8257972599369dc4d6772b8962bbcebf85e3c8fad175
     url: https://www.agentmail.to/startups
+  - source_id: src_6536837e1f583251c117dd56c7c5b523a97e1137fd1b1334c1206b53f0801a87
+    url: https://www.agentmail.to/
 programs:
   - program_id: prg_01m1c2a0zrsx5p2t74nsg2zyxq
     program_slug: agentmail-for-startups
