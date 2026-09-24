@@ -42,7 +42,7 @@ offers:
             value: P6M
       consideration:
         kind: variable
-        description: The company pays half the Greptile price for 6 months.
+        description: The startup receives 50% off Greptile for 6 months.
     eligibility:
       rule:
         kind: all
@@ -65,7 +65,6 @@ offers:
     access:
       availability: public
       method: form
-      instructions: Submit the Apply for Startup Discount form on the page with company details, Series A status, and revenue range.
       url: https://www.greptile.com/startup-discount
     source_ids:
       - src_d124523d6200c012a15f89245e5b5b6b6506fbb349c89673fdaad44f1d37dedb
