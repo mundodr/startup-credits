@@ -21,6 +21,8 @@ sources:
     url: https://distribute.app/startup-credits
   - source_id: src_418eba9db3876d6ec83428906fd23f4c51e4649ee2a11611638ddb572134e58b
     url: https://distribute.app/
+  - source_id: src_80c44a25043b6a82acf23c5019e1f7279a04d2948b7cb453fd147dad1b7075f5
+    url: https://distribute.app/docs
 programs:
   - program_id: prg_01m11nxtqypjcptx65e7k4jbcb
     program_slug: distribute-startup-program
